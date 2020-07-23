@@ -7,6 +7,6 @@ After Implementation you can use in following way-
  -> Login with phone number verification
  -> Find Users of this applications from your contact list.
  -> Create chat with users.
- -> Send and receive text messages.
+ -> Send and receive text messages. 
  -> Send and receive media files.
  -> Logout if you want.
